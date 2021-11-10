@@ -8,7 +8,9 @@
 
 <h3>When the website is finished, it should be available at: https://tobyhogan.com/</h3>
 
-![status badge](https://img.shields.io/badge/build-testing-blue) ![version badge](https://img.shields.io/badge/version-4.0-green) ![HTML badge](https://img.shields.io/badge/HTML-v5-red) ![CSS badge](https://img.shields.io/badge/CSS-v3-blue) ![JS badge](https://img.shields.io/badge/JS-ES2015-yellow)
+![status badge](https://img.shields.io/badge/build-testing-blue) ![version badge](https://img.shields.io/badge/version-4.0-green) 
+
+![HTML badge](https://img.shields.io/badge/HTML-v5-red) ![CSS badge](https://img.shields.io/badge/CSS-v3-blue) ![JS badge](https://img.shields.io/badge/JS-ES2015-yellow)
 
 </hr>
 

@@ -6,5 +6,3 @@
 
 ![status badge](https://img.shields.io/badge/build-testing-blue)
 
-[![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://github.com/badges/shields)
-

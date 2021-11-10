@@ -6,3 +6,5 @@
 
 ![status badge](https://img.shields.io/badge/build-testing-blue)
 
+![version badge](https://img.shields.io/badge/version-4.0-green)
+

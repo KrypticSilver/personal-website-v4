@@ -4,7 +4,5 @@
 </h4>
 <h2>When the website is finished, it should be available at: https://tobyhogan.com/</h2>
 
-![status badge](https://img.shields.io/badge/build-testing-blue)
-
-![version badge](https://img.shields.io/badge/version-4.0-green)
+![status badge](https://img.shields.io/badge/build-testing-blue) ![version badge](https://img.shields.io/badge/version-4.0-green)
 
